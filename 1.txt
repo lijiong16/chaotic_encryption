@@ -1,0 +1,12 @@
+Generating all possible triplets would result in many
+triplets that are easily satisfied (i.e. fulfill the constraint
+in Eq. (1)). These triplets would not contribute to the training
+and result in slower convergence, as they would still
+
+be passed through the network. It is crucial to select hard
+triplets, that are active and can therefore contribute to improving
+the model. The following section talks
+啊啊
+
+
+fyuikmnbf
